@@ -1,5 +1,6 @@
 # LaravelWatcher
 Project to rank Laravel and Symfony repositories
+![image](https://user-images.githubusercontent.com/8663061/57359152-e2fbba00-716e-11e9-8ccb-62601f4e6939.png)
 
 ## Installing project on Windows with docker
 Create all php and mysql containers:
